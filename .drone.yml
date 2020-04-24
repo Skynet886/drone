@@ -137,4 +137,3 @@ trigger:
 
 depends_on:
 - linux-arm64
-- linux-arm
